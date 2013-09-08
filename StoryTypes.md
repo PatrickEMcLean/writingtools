@@ -61,7 +61,7 @@ Hero goes on the road in search of one thing and winds up discovering something 
 
 ## Superhero
 
-*A Beautiful Mind. Batman. Superman, Frankenstein Gladiator*
+*A Beautiful Mind. Batman. Superman, Frankenstein, Gladiator*
 
 ---
 

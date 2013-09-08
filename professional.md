@@ -1,5 +1,5 @@
 # The Characteristics of a Professional
-*from ""The War of Art" by Stephen Pressfield*
+*from "The War of Art" by Stephen Pressfield*
 
 The seeming detachment of the professional, the cold-blooded character to his demeanor, is a compensating device to keep him from loving the game so much that he freezes in action. 
 
@@ -21,4 +21,4 @@ The seeming detachment of the professional, the cold-blooded character to his de
 16. A professional reinvents himself. 
 17. A professional is recognized by other professionals. 
 18. A professional is a business. 
-19. A professional is  a critter that keeps on coming. 
+19. A professional is a critter that keeps on coming. 

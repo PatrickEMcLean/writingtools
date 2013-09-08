@@ -3,7 +3,7 @@
 * Opening Image (1):
 * Theme Stated (5): 
 * Set-up (1-10):
-** Save the Cat scenes[^1]  
+** Save the Cat scenes[^1]
 ** Pope in the pool scenes[^2]
 ** six things that need fixing[^3]
 * Catalyst (12): 
