@@ -39,7 +39,7 @@ Here's the second installment of the master plot.
 Divide the 6000 word yarn into four 1500 word parts. In each 1500 word part, put the following:
 
 
-##FIRST 1500 WORDS
+## FIRST 1500 WORDS
 
 1--First line, or as near thereto as possible, introduce the hero and swat him with a fistful of trouble. Hint at a mystery, a menace or a problem to be solved--something the hero has to cope with.
 
@@ -61,7 +61,7 @@ Hero should accomplish something with his tearing around, if only to rescue Eloi
 They're not real. The rings are painted there. Why?
 
 
-##SECOND 1500 WORDS
+## SECOND 1500 WORDS
 
 1--Shovel more grief onto the hero.
 
@@ -85,7 +85,7 @@ Characterizing a story actor consists of giving him some things which make him s
 BUILD YOUR PLOTS SO THAT ACTION CAN BE CONTINUOUS.
 
 
-##THIRD 1500 WORDS
+## THIRD 1500 WORDS
 
 1--Shovel the grief onto the hero.
 
@@ -118,7 +118,7 @@ Trees, wind, scenery and water.
 *THE SECRET OF ALL WRITING IS TO MAKE EVERY WORD COUNT.*
 
 
-##FOURTH 1500 WORDS
+## FOURTH 1500 WORDS
 
 1--Shovel the difficulties more thickly upon the hero.
 
