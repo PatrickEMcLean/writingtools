@@ -7,7 +7,7 @@ This is not the best way to write every novel, or even most novels. Moorcock use
 So all of the quotes below are from just the first chapter of the book. I cannot recommend enough for fiction writers to hunt themselves down a copy (it's sadly out of print) and studying it, especially if you want to understand the purpose of form and structure in fiction. If you want to think of this post as a naked advertisement for this brilliant book, I'm okay with that.
 To be clear: This is not my advice. This is Michael Moorcock's advice. Ihave never written a book in three days. I am planning on making the attempt, however, on the weekend of September 18th, which is Jewish New Years (Rosh Hashanah), and the next time in my calendar when I'll have three days straight with nothing else to do. Digesting this material is part of my preparation.
 
-##How to Write a Book in Three Days
+## How to Write a Book in Three Days
 
  •  "If you're going to do a piece of work in three days, you have to have everything properly prepared."
 
