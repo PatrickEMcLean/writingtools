@@ -1,23 +1,24 @@
 # Beats
 
-* Opening Image (1):
-* Theme Stated (5): 
-* Set-up (1-10):
-** Save the Cat scenes[^1]
-** Pope in the pool scenes[^2]
-** six things that need fixing[^3]
-* Catalyst (12): 
-* Debate (12-25): 
-* Break into Two (25)
-* B Story (30): 
-* Fun and Games (30-55): 
-* Midpoint (55):  (”Sex at sixty")
-* Bad Guys Close In (55-75): 
-* All Is Lost (75): 
-* Dark Night of the Soul (75-85): 
-* Break into Three (85): 
-* Finale (85-110): 
-* Final Image (110): 
+
+# Opening Image (1):
+# Theme Stated (5): 
+# Set-up (1-10):
+* Save the Cat scenes[^1]
+* Pope in the pool scenes[^2]
+* six things that need fixing[^3]
+# Catalyst (12): 
+# Debate (12-25): 
+# Break into Two (25)
+# B Story (30): 
+# Fun and Games (30-55): 
+# Midpoint (55):  (”Sex at sixty")
+# Bad Guys Close In (55-75): 
+# All Is Lost (75): 
+# Dark Night of the Soul (75-85): 
+# Break into Three (85): 
+# Finale (85-110): 
+# Final Image (110): 
 
 
 ---
