@@ -16,7 +16,7 @@ The seeming detachment of the professional, the cold-blooded character to his de
 11. A professional distances herself from her instrument
 12. A professional does not take failure (or success) personally.
 13. A professional endures adversity. 
-14. A professional self-validates. 
+14. A professional self-validates.
 15 A professional recognizes limitations. 
 16. A professional reinvents himself. 
 17. A professional is recognized by other professionals. 
