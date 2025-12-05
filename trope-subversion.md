@@ -97,6 +97,186 @@ The trope setup is there, but a crucial element is absent or different.
 
 ---
 
+## Detailed Examples from Fiction
+
+### 1. Expectation Flip Examples
+
+**Frozen (2013)**
+- Trope: Prince Charming rescues and marries the princess
+- Subversion: Prince Hans is revealed as the villain; true love is sisterly, not romantic
+- Why it works: Setup is thorough; the flip serves the theme about real vs superficial love
+
+**Scream (1996)**
+- Trope: The big-name star is the protagonist
+- Subversion: Drew Barrymore (top-billed) dies in the opening scene
+- Why it works: Establishes that no one is safe; sets tone for entire film
+
+**Cabin in the Woods (2011)**
+- Trope: The dumb blonde dies first in horror movies
+- Subversion: She's actually a smart brunette who dyed her hair; the "stoner" is the smartest one
+- Why it works: The movie is about deconstructing horror tropes; this is setup for the larger twist
+
+**Shrek (2001)**
+- Trope: Kiss breaks the curse and she becomes beautiful
+- Subversion: She stays an ogre; that's her true form and she embraces it
+- Why it works: Reinforces the theme that beauty is subjective and true love accepts you as you are
+
+### 2. Deconstruction Examples
+
+**Watchmen (Comics/2009 film)**
+- Trope: Superheroes are paragons of virtue who save the world
+- Deconstruction: What if they had realistic psychology? They'd be violent, fascist, detached, or broken
+- Why it works: Takes the premise seriously and follows it to logical conclusions
+
+**The Boys (TV series)**
+- Trope: Superman-like heroes protect humanity
+- Deconstruction: With corporate backing and no accountability, they'd be sociopathic celebrities
+- Why it works: Explores power dynamics, celebrity culture, and corruption systematically
+
+**Game of Thrones (Early seasons)**
+- Trope: The honorable hero prevails through virtue
+- Deconstruction: Honor gets you killed in a world of political machinations
+- Why it works: Shows realistic consequences of idealism vs pragmatism
+
+**Worm (Web serial)**
+- Trope: Teenager gets superpowers and fights crime
+- Deconstruction: Realistic trauma, PTSD, escalation, civilian casualties, and moral compromise
+- Why it works: Takes superhero logic seriously and examines what would actually happen
+
+### 3. Lampshading Examples
+
+**Deadpool (2016)**
+- Trope: Various superhero/action movie conventions
+- Lampshading: "Please don't make the supersuit green. Or animated!"
+- Why it works: Self-awareness is core to the character; breaking the fourth wall is his thing
+
+**Scream (1996)**
+- Trope: Horror movie victim behavior
+- Lampshading: Randy explicitly lists the rules: "Never say 'I'll be right back,'" etc.
+- Why it works: Makes the audience complicit; when characters break rules, we feel the dread
+
+**The Princess Bride (1987)**
+- Trope: Fantasy adventure conventions
+- Lampshading: "Have fun storming the castle!" "Think it'll work?" "It'd take a miracle."
+- Why it works: Charming and self-aware without being cynical; loves the genre it's playing with
+
+**Austin Powers (1997)**
+- Trope: James Bond villain monologuing instead of killing the hero
+- Lampshading: Scott Evil: "Why don't you just shoot him now?"
+- Why it works: Acknowledges absurdity while committing to the bit
+
+### 4. Wrong Genre Savvy Examples
+
+**Galaxy Quest (1999)**
+- Setup: Actors from a Star Trek-like show think they're doing a convention appearance
+- Wrong Genre Savvy: They treat it like a performance when it's real aliens needing real help
+- Why it works: Comedy from mismatched expectations; they have to become their characters
+
+**Tucker and Dale vs Evil (2010)**
+- Setup: College kids encounter hillbillies in the woods
+- Wrong Genre Savvy: Kids think they're in a slasher film; hillbillies are actually nice guys
+- Why it works: Each side's genre assumptions create escalating misunderstandings
+
+**Hot Fuzz (2007)**
+- Setup: Action cop transferred to sleepy English village
+- Wrong Genre Savvy: Nicholas Angel expects action movie conspiracies; initially misses real conspiracy
+- Why it works: His assumptions are both wrong AND right; layers of genre play
+
+**Cabin in the Woods (2011)**
+- Setup: College kids in a horror movie scenario
+- Wrong Genre Savvy: The stoner figures out they're being manipulated, but not the full scale
+- Why it works: Being partially right is worse; leads to apocalyptic consequences
+
+### 5. Delayed Payoff Examples
+
+**Harry Potter series**
+- Setup: Snape appears to be a villain, then possibly good, then definitely evil, then...
+- Delayed Payoff: Final revelation recontextualizes his entire arc
+- Why it works: Each revelation is earned; complexity serves character depth
+
+**The Sixth Sense (1999)**
+- Setup: Psychologist treating a boy who sees dead people
+- Delayed Payoff: "I see dead people" applies to the psychologist himself
+- Why it works: All clues are present; rewatch value is immense
+
+**Avatar: The Last Airbender - "The Ember Island Players"**
+- Setup: Throughout the series, Zuko's scar and its placement matter
+- Delayed Payoff: Play shows scar on wrong side; Zuko: "The scar's NOT on the wrong side!"
+- Why it works: Meta-joke about fan complaints becomes character moment
+
+**A Song of Ice and Fire (books)**
+- Setup: Jon Snow's parentage hinted at from book one
+- Delayed Payoff: Revelation transforms understanding of entire political situation (still waiting...)
+- Why it works: Mystery enhances rather than stalls the story
+
+### 6. Multiple Tropes in Conflict Examples
+
+**Breaking Bad**
+- Conflicting tropes: Good man forced into crime + Power corrupts + Protect family at all costs
+- How they collide: Can't satisfy all three; Walter's choices reveal his true priorities
+- Why it works: Forces protagonist and audience to confront uncomfortable truths
+
+**The Dark Knight (2008)**
+- Conflicting tropes: Hero always does the right thing + Win at any cost + Escalation
+- How they collide: "You either die a hero, or live long enough to see yourself become the villain"
+- Why it works: Batman's choices create the Joker; heroism breeds more extreme villainy
+
+**Lord of the Rings**
+- Conflicting tropes: Power corrupts absolutely + Fellowship/friendship conquers all
+- How they collide: Even the best people (Boromir, Saruman, Galadriel) are tempted; only destroy the Ring
+- Why it works: Both tropes are true; resolution honors both
+
+**My Hero Academia**
+- Conflicting tropes: Anyone can be a hero with hard work + Superpowers are genetic lottery
+- How they collide: Deku gets powers gifted to him; "quirkless" people largely can't be heroes
+- Why it works: Story examines privilege, inheritance, and effort honestly
+
+### 7. Changed Context Examples
+
+**Jessica Jones (TV series)**
+- Trope: Person with superpowers fights crime
+- Changed context: Superpowers don't fix PTSD from abuse; power fantasy meets trauma reality
+- Why it works: Uses superhero framework to explore abuse and recovery seriously
+
+**Logan (2017)**
+- Trope: Immortal superhero with healing factor
+- Changed context: What happens when he ages anyway? Violence has taken its toll
+- Why it works: Consequences catch up; examines cost of a lifetime of violence
+
+**The Last of Us (Game/TV)**
+- Trope: Zombie apocalypse survival story
+- Changed context: Zombies are backdrop for relationship drama and moral choices
+- Why it works: Zombies aren't the real threat; people and choices are
+
+**Joker (2019)**
+- Trope: Villain origin story
+- Changed context: Mental illness and societal failure; tragedy not power fantasy
+- Why it works: Examines systems that create villains; no easy answers
+
+### 8. Missing Piece Examples
+
+**Frozen (2013)**
+- Trope setup: Love triangle (Anna between Kristoff and Hans)
+- Missing piece: Anna doesn't need either romantic relationship to save the day
+- Why it works: Sisterly love is the true love that breaks the curse; romance is secondary
+
+**Mad Max: Fury Road (2015)**
+- Trope setup: Title character is the protagonist
+- Missing piece: Max is actually a supporting character; Furiosa drives the plot
+- Why it works: Subverts expectations while delivering on action promises
+
+**Arrival (2016)**
+- Trope setup: First contact with aliens, usually conflict-focused
+- Missing piece: The aliens aren't antagonists; understanding them is the whole story
+- Why it works: Language and communication become the tension; no evil villain needed
+
+**Pacific Rim (2013)**
+- Trope setup: Male and female leads, obvious romance plot coming
+- Missing piece: They remain respectful colleagues; no kiss, no romance subplot
+- Why it works: Mutual respect is refreshing; not every male-female partnership needs romance
+
+---
+
 ## Classic Trope Subversions
 
 ### The Chosen One
